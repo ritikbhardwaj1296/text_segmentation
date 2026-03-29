@@ -1,0 +1,404 @@
+Dataset,Image_File,Prompt,IoU,Dice,Inference_Time_sec
+drywall,IMG_8224_JPG_jpg.rf.e48f9983e55b64f86609fae0cd0be1f3.jpg,segment taping area,0.5559,0.7145,0.2883
+drywall,IMG_8275_JPG_jpg.rf.f23ebc8bdeb649f3b4cb6aa8b00f7a83.jpg,segment taping area,0.4827,0.6511,0.0088
+drywall,IMG_8202_JPG_jpg.rf.eb464a259fd963788b0ad8bda43daa2e.jpg,segment taping area,0.4302,0.6016,0.0081
+drywall,IMG_20220627_111127-jpg_1500x2000_jpg.rf.e3c99397ae17aca554b18a49a93c1bfe.jpg,segment taping area,0.1828,0.3091,0.0085
+drywall,2000x1500_15_resized_jpg.rf.e81ec1bc2f1811998026f776a78b76f3.jpg,segment taping area,0.3598,0.5292,0.0079
+drywall,IMG_20220627_111048-jpg_1500x2000_jpg.rf.f2541a7b02fc11d1f94d28c47ca91324.jpg,segment taping area,0.2392,0.3861,0.0082
+drywall,IMG_20220627_111718-jpg_1500x2000_jpg.rf.efebc8e2f88500025962ad846fbfbfd2.jpg,segment taping area,0.4350,0.6063,0.0085
+drywall,IMG_20220627_111149-jpg_1500x2000_jpg.rf.f0b969a63efd4f98a7a3c5fa2d92824c.jpg,segment taping area,0.5247,0.6883,0.0091
+drywall,IMG_8206_JPG_jpg.rf.e8ce129990c39b44df154b0d117ad7b9.jpg,segment taping area,0.5932,0.7446,0.0080
+drywall,2000x1500_49_resized_jpg.rf.ed20615e4b45a28ecde3bc767e2d29c4.jpg,segment taping area,0.4205,0.5920,0.0145
+drywall,IMG_8240_JPG_jpg.rf.e7e858f5846ea79fd39daf111ed81528.jpg,segment taping area,0.1934,0.3241,0.0121
+drywall,IMG_8208_JPG_jpg.rf.f13a712c80cdad5a4d4b4dd630ae7474.jpg,segment taping area,0.4241,0.5956,0.0129
+drywall,IMG_8223_JPG_jpg.rf.fc85d8f8388dc6ecf67a682d0432fa33.jpg,segment taping area,0.3564,0.5255,0.0089
+drywall,IMG_20220627_110945-jpg_1500x2000_jpg.rf.e0ed4bd30af142dc46dffc081eda1069.jpg,segment taping area,0.2065,0.3423,0.0098
+drywall,IMG_8289_JPG_jpg.rf.fdd4f9f45f09202b31d51c84666a8e87.jpg,segment taping area,0.3217,0.4868,0.0078
+drywall,2000x1500_85_resized_jpg.rf.f5958ece43375699b71ba621135a1afc.jpg,segment taping area,0.1195,0.2135,0.0085
+drywall,IMG_8264_JPG_jpg.rf.f08362b8289064f72e17c05e109ce6e6.jpg,segment taping area,0.1153,0.2068,0.0083
+drywall,IMG_8220_JPG_jpg.rf.fa8d665f8ee3c598709e2829e0f1a4db.jpg,segment taping area,0.1155,0.2071,0.0079
+drywall,IMG_20220627_110945-jpg_1500x2000_jpg.rf.f094f2b0565ecbe801e9164293cd5ba7.jpg,segment taping area,0.3779,0.5485,0.0095
+drywall,IMG_8306_JPG_jpg.rf.f5810c76b560809ae23ae821b85a3d5b.jpg,segment taping area,0.4042,0.5757,0.0080
+drywall,IMG_8221_JPG_jpg.rf.f852eb8aed1648bfea129a29c37bcb1d.jpg,segment taping area,0.1151,0.2065,0.0078
+drywall,2000x1500_69_resized_jpg.rf.f3dd71409562d1837a8794021b592448.jpg,segment taping area,0.2623,0.4156,0.0086
+drywall,IMG_8216_JPG_jpg.rf.069e0b925a406c76fd6d1d4db2e2f7c5.jpg,segment taping area,0.1345,0.2371,0.0078
+drywall,2000x1500_11_resized_jpg.rf.01095e351975e8296930b300aa4a282c.jpg,segment taping area,0.0000,0.0000,0.0071
+drywall,2000x1500_73_resized_jpg.rf.0a52c94d74c60cf175007c4ea0d5c41f.jpg,segment taping area,0.5905,0.7425,0.0081
+drywall,IMG_8216_JPG_jpg.rf.09ab1871dcba103cc6cca3fc324785dd.jpg,segment taping area,0.3303,0.4965,0.0080
+drywall,IMG_8237_JPG_jpg.rf.054c26527bf56f429e2a72f8694cbb74.jpg,segment taping area,0.3487,0.5171,0.0078
+drywall,IMG_8276_JPG_jpg.rf.066c38a43adce95cab85cd346580ef03.jpg,segment taping area,0.6441,0.7835,0.0082
+drywall,2000x1500_33_resized_jpg.rf.0ccf23329e0de7e35d13854a724f8660.jpg,segment taping area,0.0708,0.1323,0.0088
+drywall,2000x1500_73_resized_jpg.rf.0b36cedcf15b43e0980f5135b0df0877.jpg,segment taping area,0.1853,0.3127,0.0083
+drywall,IMG_8289_JPG_jpg.rf.12833472f05282385de32554d42c4617.jpg,segment taping area,0.2825,0.4405,0.0077
+drywall,IMG_8245_JPG_jpg.rf.0c29e4cf976b97a7842f691ea7d1b17c.jpg,segment taping area,0.2688,0.4238,0.0080
+drywall,IMG_8217_JPG_jpg.rf.235112522dad9f2f55bb63d4f03ce9cd.jpg,segment taping area,0.2069,0.3428,0.0085
+drywall,2000x1500_27_resized_jpg.rf.1fe8172787c0d05ec95575f54723d52f.jpg,segment taping area,0.0654,0.1227,0.0100
+drywall,2000x1500_80_resized_jpg.rf.22ed1313e5deecdb23afc718ae5070e0.jpg,segment taping area,0.2360,0.3819,0.0088
+drywall,IMG_8202_JPG_jpg.rf.20f6efeba08eb2a93bb3d3bd6500f6a2.jpg,segment taping area,0.2842,0.4427,0.0092
+drywall,IMG_8275_JPG_jpg.rf.1e00409cc8d16a50cedc83d1ae4cee26.jpg,segment taping area,0.4559,0.6263,0.0078
+drywall,IMG_8221_JPG_jpg.rf.145ccc33584f95d9082eded41d501374.jpg,segment taping area,0.4166,0.5882,0.0078
+drywall,2000x1500_15_resized_jpg.rf.22fc3512deed0691f3c2698aa76e7f0b.jpg,segment taping area,0.1833,0.3098,0.0080
+drywall,IMG_8227_JPG_jpg.rf.218e02017ad142cf4ade6856564cb59a.jpg,segment taping area,0.5689,0.7252,0.0078
+drywall,IMG_8228_JPG_jpg.rf.16c35c0af73e65e2425f8b05f33027aa.jpg,segment taping area,0.3942,0.5655,0.0079
+drywall,IMG_8210_JPG_jpg.rf.273bfebf436e0bb914744e18e805ce33.jpg,segment taping area,0.0639,0.1201,0.0081
+drywall,IMG_8205_JPG_jpg.rf.181ffa4c4a4e8404f672f7edf1f906c4.jpg,segment taping area,0.2415,0.3891,0.0077
+drywall,IMG_8318_JPG_jpg.rf.167289d201b50a0a7e39d457b4e10049.jpg,segment taping area,0.2663,0.4206,0.0078
+drywall,IMG_8218_JPG_jpg.rf.2942e7e7ee60d08af18b013f818095a5.jpg,segment taping area,0.0480,0.0917,0.0081
+drywall,IMG_8203_JPG_jpg.rf.233d4061d1e3c947cd2fd77c81f22f08.jpg,segment taping area,0.5387,0.7002,0.0081
+drywall,IMG_8238_JPG_jpg.rf.2be6fd468fe1f0deb807ee152deef91b.jpg,segment taping area,0.0158,0.0312,0.0076
+drywall,IMG_8224_JPG_jpg.rf.259c4027fbabe515bb0f274d01984487.jpg,segment taping area,0.6471,0.7857,0.0080
+drywall,IMG_8221_JPG_jpg.rf.22ad0ec4d30391135989467110a445e4.jpg,segment taping area,0.5052,0.6713,0.0080
+drywall,IMG_20220627_111655-jpg_1500x2000_jpg.rf.0a6863cb003959b7b95483284d6bbab6.jpg,segment taping area,0.3566,0.5257,0.0092
+drywall,IMG_8255_JPG_jpg.rf.2cafdda5e5477477a195178924df459b.jpg,segment taping area,0.1460,0.2549,0.0083
+drywall,IMG_8208_JPG_jpg.rf.2ca56684028058da1b6d9669fd2e77cd.jpg,segment taping area,0.1004,0.1826,0.0079
+drywall,IMG_8217_JPG_jpg.rf.2b953020e2c9f121fb28a06a031009be.jpg,segment taping area,0.2678,0.4225,0.0080
+drywall,2000x1500_85_resized_jpg.rf.2ce785f6c9b2c0966647491463488c13.jpg,segment taping area,0.1520,0.2639,0.0086
+drywall,2000x1500_72_resized_jpg.rf.2c1fc1bff7590c886bd524bc8befc00a.jpg,segment taping area,0.2036,0.3384,0.0088
+drywall,IMG_8226_JPG_jpg.rf.35140f93da7d6c286c12b381215527bb.jpg,segment taping area,0.2516,0.4021,0.0079
+drywall,IMG_8220_JPG_jpg.rf.277665ac5073984ae11b1c76c61cf31b.jpg,segment taping area,0.5091,0.6747,0.0079
+drywall,IMG_20220627_110945-jpg_1500x2000_jpg.rf.2f29bf95b65d5ed0673a22bb860e5b13.jpg,segment taping area,0.3711,0.5413,0.0095
+drywall,IMG_8222_JPG_jpg.rf.30ff365f7d71f6749639d7c4bf3421e3.jpg,segment taping area,0.3980,0.5694,0.0080
+drywall,IMG_8226_JPG_jpg.rf.329e5ff63c11fe9095261ee665625822.jpg,segment taping area,0.4453,0.6162,0.0082
+drywall,IMG_8228_JPG_jpg.rf.3468e6b86799e333392c4b4d49c6b94b.jpg,segment taping area,0.3409,0.5085,0.0079
+drywall,2000x1500_19_resized_jpg.rf.3e21b07828f095d4f977f272e608af6e.jpg,segment taping area,0.1450,0.2532,0.0082
+drywall,IMG_8234_JPG_jpg.rf.247f3c2b0a77b25ea33e2d86052f346d.jpg,segment taping area,0.4296,0.6010,0.0080
+drywall,IMG_8222_JPG_jpg.rf.3bedd1b968fcd03bd436edd95daac8cd.jpg,segment taping area,0.2334,0.3785,0.0078
+drywall,IMG_20220627_111655-jpg_1500x2000_jpg.rf.31f256ae7a92621bc71b9fd26025b30a.jpg,segment taping area,0.1413,0.2476,0.0089
+drywall,IMG_8234_JPG_jpg.rf.388e7c8008f2a52e4f64d7073d2d136f.jpg,segment taping area,0.3697,0.5398,0.0079
+drywall,IMG_8203_JPG_jpg.rf.3d0de07268c617aaebe423060b29d242.jpg,segment taping area,0.3798,0.5505,0.0080
+drywall,IMG_8245_JPG_jpg.rf.3d533d080c2c435e01ca2cf3a19693e4.jpg,segment taping area,0.1374,0.2415,0.0080
+drywall,IMG_8226_JPG_jpg.rf.494c74faec5557f5e6e6d6160fb5df79.jpg,segment taping area,0.4510,0.6217,0.0081
+drywall,IMG_8224_JPG_jpg.rf.43c777b9b2617db3e94b97c724565eff.jpg,segment taping area,0.3449,0.5129,0.0080
+drywall,2000x1500_5_resized_jpg.rf.3fc7f433a880ba55d1aa9abb72f463ce.jpg,segment taping area,0.2639,0.4176,0.0079
+drywall,IMG_8202_JPG_jpg.rf.41dabb6475e2dbbcb8a6f1023629d520.jpg,segment taping area,0.1464,0.2555,0.0081
+drywall,IMG_20220627_111655-jpg_1500x2000_jpg.rf.45c4986dbcc9c1fec3c309a31552d396.jpg,segment taping area,0.1737,0.2960,0.0085
+drywall,IMG_8202_JPG_jpg.rf.4c393bca03f7f57a2684956b2d04ef72.jpg,segment taping area,0.1653,0.2836,0.0079
+drywall,2000x1500_47_resized_jpg.rf.4e2bfdb53c74f60f56c8d83b1fb7194b.jpg,segment taping area,0.2605,0.4133,0.0082
+drywall,IMG_8236_JPG_jpg.rf.4e7844d2bcc88788d6896769522aa82b.jpg,segment taping area,0.1972,0.3294,0.0079
+drywall,IMG_8217_JPG_jpg.rf.4e8693a504c9973cb6fd9f3d37a26955.jpg,segment taping area,0.2642,0.4180,0.0078
+drywall,IMG_8218_JPG_jpg.rf.2be7919dc57fe600b8960835877e79ba.jpg,segment taping area,0.2196,0.3601,0.0077
+drywall,IMG_8207_JPG_jpg.rf.4728dbdd122a605e221adb3c9ccda695.jpg,segment taping area,0.2926,0.4528,0.0077
+drywall,2000x1500_76_resized_jpg.rf.52fdc9513d662a4ff431f119941bf44e.jpg,segment taping area,0.3500,0.5185,0.0081
+drywall,IMG_8209_JPG_jpg.rf.5885bf724521576901abadb2523d5579.jpg,segment taping area,0.3797,0.5504,0.0079
+drywall,IMG_8313_JPG_jpg.rf.4d2bc73001952d11f81a2849abb26a93.jpg,segment taping area,0.5983,0.7487,0.0081
+drywall,IMG_8213_JPG_jpg.rf.4266a29a9ae2637583d9d9c4c62cfaca.jpg,segment taping area,0.3843,0.5552,0.0081
+drywall,IMG_8234_JPG_jpg.rf.5324496d850c9db7494f69ee1098fb35.jpg,segment taping area,0.2596,0.4122,0.0080
+drywall,IMG_8212_JPG_jpg.rf.58032c51dc94338f72e5d14c8c37306b.jpg,segment taping area,0.4021,0.5736,0.0082
+drywall,IMG_8204_JPG_jpg.rf.4e7f2a10c7afd6563ef1ceb3243ec664.jpg,segment taping area,0.1439,0.2516,0.0077
+drywall,2000x1500_46_resized_jpg.rf.547ed25bc25b7784e40b6b505f110e2a.jpg,segment taping area,0.8104,0.8953,0.0079
+drywall,IMG_8319_JPG_jpg.rf.528f40ecf7ef2cd1f256ae73aaebfb31.jpg,segment taping area,0.3692,0.5393,0.0078
+drywall,2000x1500_78_resized_jpg.rf.518e654f8ac2c3526a70a81a798ce98a.jpg,segment taping area,0.2636,0.4172,0.0090
+drywall,IMG_8237_JPG_jpg.rf.61f007f06a70a3bb9ff7e891ff2de603.jpg,segment taping area,0.3127,0.4764,0.0080
+drywall,IMG_8213_JPG_jpg.rf.53c7add6d29f9bd414013da476eaff82.jpg,segment taping area,0.3786,0.5492,0.0081
+drywall,2000x1500_19_resized_jpg.rf.61f26a1e542b14d91fb9c29d7d897b68.jpg,segment taping area,0.4453,0.6162,0.0084
+drywall,IMG_8224_JPG_jpg.rf.5366b4a5391555d9a242e8f0f12698d6.jpg,segment taping area,0.4957,0.6628,0.0080
+drywall,IMG_8313_JPG_jpg.rf.3d253377998430fced367e76ed4862ca.jpg,segment taping area,0.4795,0.6482,0.0077
+drywall,IMG_8238_JPG_jpg.rf.5bb1cc682d79eea4a4f66f9e296c7042.jpg,segment taping area,0.1895,0.3187,0.0077
+drywall,IMG_8224_JPG_jpg.rf.5e0a6aba5705493ed2d70aeade135ff8.jpg,segment taping area,0.5166,0.6813,0.0078
+drywall,IMG_8221_JPG_jpg.rf.51033f2e677d49fd3a0aca045135573c.jpg,segment taping area,0.3757,0.5462,0.0079
+drywall,IMG_8203_JPG_jpg.rf.5c9b509afd12971c3ab91814258e7c74.jpg,segment taping area,0.3207,0.4857,0.0080
+drywall,IMG_8217_JPG_jpg.rf.68bf5b2b52dc03b4f33dfaddb0f5ffe8.jpg,segment taping area,0.0503,0.0957,0.0077
+drywall,IMG_8203_JPG_jpg.rf.647223c368e8d88386d85c0d54034169.jpg,segment taping area,0.2828,0.4409,0.0078
+drywall,IMG_8228_JPG_jpg.rf.68b8111cb627bdf38b949bc5757da3dc.jpg,segment taping area,0.1339,0.2362,0.0077
+drywall,IMG_8229_JPG_jpg.rf.6424c15727bbda247b48ca1908fc98a5.jpg,segment taping area,0.5591,0.7172,0.0080
+drywall,IMG_8216_JPG_jpg.rf.5e6d4c0151e89c01aa827ab9c1434b6c.jpg,segment taping area,0.2408,0.3881,0.0078
+drywall,IMG_8273_JPG_jpg.rf.5f7bfa478beb59ad24f875f53cedbddf.jpg,segment taping area,0.5189,0.6833,0.0081
+drywall,IMG_8203_JPG_jpg.rf.69438cc91476faa5ac0ba622b2897a86.jpg,segment taping area,0.3206,0.4855,0.0082
+drywall,IMG_8243_JPG_jpg.rf.4f0b4b7c114af1109c147290c223dafa.jpg,segment taping area,0.0693,0.1296,0.0078
+drywall,IMG_8229_JPG_jpg.rf.6d5ca34d5967fd49a19456581748cb21.jpg,segment taping area,0.3839,0.5548,0.0079
+drywall,IMG_8213_JPG_jpg.rf.67cef1606aa7e990de81a1eca2842657.jpg,segment taping area,0.1410,0.2471,0.0080
+drywall,2000x1500_66_resized_jpg.rf.6e781cc3a036d6a7875502ab8a5ab30f.jpg,segment taping area,0.1289,0.2284,0.0087
+drywall,2000x1500_0_resized_jpg.rf.5ea90002e5c5e1cc2c092efe44e966cf.jpg,segment taping area,0.1966,0.3286,0.0079
+drywall,IMG_8238_JPG_jpg.rf.720aa6ae3c177194cf79e7cef377838d.jpg,segment taping area,0.0249,0.0486,0.0076
+drywall,IMG_8234_JPG_jpg.rf.6d76f0fa7c79c11ca7997ef1ee62013d.jpg,segment taping area,0.3515,0.5201,0.0082
+drywall,IMG_8324_JPG_jpg.rf.6f14baea630f2dd7d99147413d63fc38.jpg,segment taping area,0.1595,0.2751,0.0076
+drywall,2000x1500_18_resized_jpg.rf.7613ec066f6bb69157d611b0b82835f7.jpg,segment taping area,0.4633,0.6332,0.0088
+drywall,2000x1500_47_resized_jpg.rf.6da8102e7e2759a39874a00a0b4df615.jpg,segment taping area,0.6011,0.7509,0.0083
+drywall,IMG_8254_JPG_jpg.rf.634146c3f1dc7f11148ca48c79e9c9de.jpg,segment taping area,0.1303,0.2305,0.0079
+drywall,IMG_8204_JPG_jpg.rf.7e399266030e6c90f357f6f8e5798277.jpg,segment taping area,0.1231,0.2192,0.0078
+drywall,IMG_8228_JPG_jpg.rf.7dab85c4b58c71720cfc000ab7797797.jpg,segment taping area,0.3427,0.5104,0.0078
+drywall,2000x1500_15_resized_jpg.rf.7992d3a59bedbc084b6cf887f10f9b59.jpg,segment taping area,0.1755,0.2985,0.0080
+drywall,2000x1500_9_resized_jpg.rf.69df8238010e46edb2cdb4ffc968565c.jpg,segment taping area,0.3858,0.5568,0.0080
+drywall,IMG_8202_JPG_jpg.rf.7bb0d0caab5e3395f6d2c4c66ecc734e.jpg,segment taping area,0.1288,0.2283,0.0079
+drywall,2000x1500_67_resized_jpg.rf.7931c60b0bd03b768a1fd0cbb762bfdc.jpg,segment taping area,0.2073,0.3434,0.0095
+drywall,IMG_8228_JPG_jpg.rf.7eb9fbeb8570a4dcbe55162dcb32a615.jpg,segment taping area,0.2436,0.3918,0.0078
+drywall,2000x1500_49_resized_jpg.rf.844b2d9d4954155981025649f5d060d3.jpg,segment taping area,0.4617,0.6318,0.0091
+drywall,2000x1500_17_resized_jpg.rf.7b4f55e7a9cfbbfb2d3e240ea7301ce8.jpg,segment taping area,0.1972,0.3295,0.0081
+drywall,IMG_8206_JPG_jpg.rf.71a6e5ece9e2130f216837a83dedef17.jpg,segment taping area,0.4188,0.5904,0.0078
+drywall,2000x1500_73_resized_jpg.rf.70bdcf221556c0edb7cf77697522a432.jpg,segment taping area,0.2461,0.3950,0.0083
+drywall,2000x1500_67_resized_jpg.rf.72a0f158515daf031afe978519c7f046.jpg,segment taping area,0.2215,0.3626,0.0089
+drywall,IMG_8210_JPG_jpg.rf.891209be5347f89d11feb80cb46e49a4.jpg,segment taping area,0.0693,0.1296,0.0079
+drywall,IMG_8226_JPG_jpg.rf.77f2f0f16b21826a40a53737ea74d59e.jpg,segment taping area,0.4491,0.6198,0.0078
+drywall,IMG_8249_JPG_jpg.rf.7e297e6e356994a5e22709f4b8a2096a.jpg,segment taping area,0.2293,0.3730,0.0078
+drywall,IMG_8240_JPG_jpg.rf.81aec46e3d8c646d79716d2356c54967.jpg,segment taping area,0.2040,0.3388,0.0076
+drywall,IMG_8222_JPG_jpg.rf.7a5dc47f064f9765edb3e069cc8392ea.jpg,segment taping area,0.5446,0.7052,0.0078
+drywall,IMG_8218_JPG_jpg.rf.89f23af8c74b47e464982bb7d82a9b54.jpg,segment taping area,0.2708,0.4262,0.0078
+drywall,IMG_8222_JPG_jpg.rf.871e1cc1a5dda466cebd9573720be948.jpg,segment taping area,0.2427,0.3906,0.0082
+drywall,IMG_8209_JPG_jpg.rf.8fbaa3c995fac30818b643910225b928.jpg,segment taping area,0.1152,0.2066,0.0078
+drywall,IMG_8204_JPG_jpg.rf.8659e6f5eebb7fc3ed39734caf586f17.jpg,segment taping area,0.4347,0.6060,0.0078
+drywall,2000x1500_24_resized_jpg.rf.9738f8bc2c66d3d09992de5ba93cd987.jpg,segment taping area,0.2818,0.4397,0.0090
+drywall,IMG_20220627_111718-jpg_1500x2000_jpg.rf.95e0babe2116b5d710aefcd0be03a5fd.jpg,segment taping area,0.3271,0.4929,0.0086
+drywall,IMG_20220627_111149-jpg_1500x2000_jpg.rf.971fcbf72d2bc3cea4a4798a6a75093b.jpg,segment taping area,0.1954,0.3269,0.0084
+drywall,IMG_8241_JPG_jpg.rf.93c4b431582c083499ce696bd8d2e841.jpg,segment taping area,0.2350,0.3806,0.0077
+drywall,IMG_8221_JPG_jpg.rf.8c4056178fce0613cec7c9677b22295b.jpg,segment taping area,0.4373,0.6085,0.0078
+drywall,IMG_20220627_111716-jpg_1500x2000_jpg.rf.96a5fc211b05321792650f63ad9a02f2.jpg,segment taping area,0.3319,0.4984,0.0082
+drywall,IMG_8258_JPG_jpg.rf.905d5f89ba0f1bb3c2dc5279b2d5df85.jpg,segment taping area,0.3425,0.5103,0.0077
+drywall,2000x1500_85_resized_jpg.rf.9882f5910630df77f0a8f1ffe528c680.jpg,segment taping area,0.2115,0.3491,0.0083
+drywall,IMG_8275_JPG_jpg.rf.9736935e833f81d5dd52b97842af1b1e.jpg,segment taping area,0.4146,0.5861,0.0079
+drywall,IMG_8220_JPG_jpg.rf.9966240e7e8fb0b6dc308e9fedd40ae8.jpg,segment taping area,0.3122,0.4759,0.0078
+drywall,IMG_8264_JPG_jpg.rf.9c17242aaa75435ab1f551e6ab818f60.jpg,segment taping area,0.1004,0.1825,0.0083
+drywall,IMG_8305_JPG_jpg.rf.9406cb77bd42e5d152c6b66630e8ef5b.jpg,segment taping area,0.4341,0.6054,0.0079
+drywall,IMG_8217_JPG_jpg.rf.98e1feb615015021d4c24e4af3e494ac.jpg,segment taping area,0.5529,0.7121,0.0080
+drywall,IMG_8227_JPG_jpg.rf.8c10fdc8675ba1e0e82213fba6efafd0.jpg,segment taping area,0.5581,0.7164,0.0082
+drywall,IMG_8203_JPG_jpg.rf.92df425efff829194274582107c4d29f.jpg,segment taping area,0.3128,0.4766,0.0079
+drywall,IMG_20220627_111721-jpg_1500x2000_jpg.rf.9a450d1b313b6597e1dfd9f1801460fc.jpg,segment taping area,0.2147,0.3535,0.0092
+drywall,IMG_8276_JPG_jpg.rf.99abe0a1ce805388d66a0c85b6b1195d.jpg,segment taping area,0.2829,0.4410,0.0082
+drywall,IMG_20220627_111052-jpg_1500x2000_jpg.rf.90e7320ea9e177a2db355b973212fcdb.jpg,segment taping area,0.5210,0.6851,0.0079
+drywall,IMG_8217_JPG_jpg.rf.897681c5f8624c70ee3ca3270e5d8024.jpg,segment taping area,0.1049,0.1899,0.0078
+drywall,IMG_8204_JPG_jpg.rf.9d877f1003e6d01739816640281d0170.jpg,segment taping area,0.4123,0.5839,0.0078
+drywall,IMG_8218_JPG_jpg.rf.8e87af67f129cc1070863cc8e3d8718b.jpg,segment taping area,0.5273,0.6905,0.0080
+drywall,IMG_8210_JPG_jpg.rf.9f54235929cea13a080aeebb3b56f625.jpg,segment taping area,0.0515,0.0980,0.0079
+drywall,IMG_8255_JPG_jpg.rf.a9b490f509996a33fd3951316870db7b.jpg,segment taping area,0.1038,0.1881,0.0081
+drywall,IMG_8245_JPG_jpg.rf.a2a5f0e8eb297afca40520e9ee83b416.jpg,segment taping area,0.2057,0.3413,0.0081
+drywall,IMG_20220627_111249-jpg_1500x2000_jpg.rf.b0897ca670524fe3a4c93def00378376.jpg,segment taping area,0.3078,0.4707,0.0083
+drywall,IMG_8222_JPG_jpg.rf.b10ef59ead4a0c6887ed382f0df1b80e.jpg,segment taping area,0.0879,0.1617,0.0078
+drywall,IMG_8216_JPG_jpg.rf.97dee58bbf3ab1525679ff1710f56f85.jpg,segment taping area,0.2579,0.4101,0.0078
+drywall,IMG_8313_JPG_jpg.rf.b342797d39bfaac0ddfa8bb2e2e7ef9f.jpg,segment taping area,0.3431,0.5109,0.0081
+drywall,IMG_8308_JPG_jpg.rf.ada38a8a53a717be6795a02cb61ff747.jpg,segment taping area,0.4055,0.5770,0.0079
+drywall,IMG_8202_JPG_jpg.rf.b3b3627a0c1ab9187c91ddd8f4c9d988.jpg,segment taping area,0.4063,0.5778,0.0080
+drywall,IMG_8243_JPG_jpg.rf.995389def9d2ef3a1b74a5bc110713f8.jpg,segment taping area,0.2014,0.3353,0.0081
+drywall,2000x1500_66_resized_jpg.rf.b699e5baf2db19c55421c67e1168bdd7.jpg,segment taping area,0.0000,0.0000,0.0089
+drywall,IMG_20220627_110124-jpg_1500x2000_jpg.rf.a60825b3e47d04bf1475ccb9f6e2c396.jpg,segment taping area,0.4948,0.6620,0.0078
+drywall,IMG_8209_JPG_jpg.rf.b54c2b2c009e201fecdefcb74d840f2f.jpg,segment taping area,0.2313,0.3757,0.0081
+drywall,IMG_8327_JPG_jpg.rf.be2a70fef25dc7e5393f8de51669484b.jpg,segment taping area,0.3634,0.5331,0.0078
+drywall,IMG_8307_JPG_jpg.rf.b7ec40d18e0fddf6cb53ddc389c9ac27.jpg,segment taping area,0.5938,0.7451,0.0079
+drywall,IMG_8208_JPG_jpg.rf.bbaaf4419248c0986af2fa5f7967ac4c.jpg,segment taping area,0.1715,0.2927,0.0083
+drywall,2000x1500_5_resized_jpg.rf.b441f4df18213a3bbd39280b226d9026.jpg,segment taping area,0.4016,0.5731,0.0078
+drywall,2000x1500_24_resized_jpg.rf.a4265a9ccccc8e9fecaf7444aaad3b38.jpg,segment taping area,0.0608,0.1146,0.0089
+drywall,IMG_8204_JPG_jpg.rf.bb153ecd5e3c28a15260ec354bc2570f.jpg,segment taping area,0.6753,0.8062,0.0079
+drywall,IMG_8204_JPG_jpg.rf.c6ca6c89931b05940349eb417c1be924.jpg,segment taping area,0.4052,0.5767,0.0078
+drywall,IMG_8217_JPG_jpg.rf.b599012eb686aabe58106d9dd3f708d9.jpg,segment taping area,0.0443,0.0849,0.0090
+drywall,2000x1500_81_resized_jpg.rf.c276753d4ddbc6f2a3f4983626195c06.jpg,segment taping area,0.1141,0.2048,0.0087
+drywall,2000x1500_73_resized_jpg.rf.b5c719de6f355b622df2fb347d8bd3b5.jpg,segment taping area,0.4666,0.6363,0.0079
+drywall,IMG_8206_JPG_jpg.rf.d0430b356230e0b1549b62180bf7a87e.jpg,segment taping area,0.5198,0.6840,0.0079
+drywall,IMG_8217_JPG_jpg.rf.c397e94e65830e8e5c28c2838efd5d11.jpg,segment taping area,0.0960,0.1751,0.0079
+drywall,IMG_8210_JPG_jpg.rf.bf54f92fddda84f429933935905a6430.jpg,segment taping area,0.0560,0.1060,0.0082
+drywall,IMG_8253_JPG_jpg.rf.d59e57dc8b4ad151691c2a69f54d1dca.jpg,segment taping area,0.2786,0.4358,0.0076
+drywall,IMG_8228_JPG_jpg.rf.ccac53710a9a66db20d0551b27760459.jpg,segment taping area,0.7759,0.8738,0.0078
+drywall,IMG_8217_JPG_jpg.rf.d7a0966c8e7aa4618d2d3f22d8d099c8.jpg,segment taping area,0.6278,0.7713,0.0081
+drywall,IMG_8213_JPG_jpg.rf.9b4bc6c5b684a6b47de35d2873ae8222.jpg,segment taping area,0.1509,0.2622,0.0079
+drywall,IMG_20220627_111655-jpg_1500x2000_jpg.rf.dc2cbcb897d50ef5fcfbaa21e3970e6d.jpg,segment taping area,0.2456,0.3944,0.0085
+drywall,IMG_8217_JPG_jpg.rf.cd806519fed3ba68e6f374155c32c9ba.jpg,segment taping area,0.5820,0.7358,0.0079
+drywall,IMG_8218_JPG_jpg.rf.be500d9aa443f52e70ccdb4c9552c6e1.jpg,segment taping area,0.4569,0.6272,0.0078
+drywall,IMG_20220627_111716-jpg_1500x2000_jpg.rf.dbe638be9ea44ce7fe87723cf5aa1609.jpg,segment taping area,0.2695,0.4246,0.0094
+drywall,IMG_8218_JPG_jpg.rf.d5ae69ce0a137c58b4ce8d5236d50c30.jpg,segment taping area,0.2859,0.4447,0.0078
+drywall,2000x1500_25_resized_jpg.rf.bfb23775564d0712a2b3affc392178ab.jpg,segment taping area,0.3261,0.4918,0.0099
+drywall,2000x1500_15_resized_jpg.rf.d81cce5f5e747dad2e4b9b97410061b7.jpg,segment taping area,0.2743,0.4305,0.0078
+drywall,IMG_8228_JPG_jpg.rf.db9da748677d4300ee0e1a05750f84e6.jpg,segment taping area,0.0468,0.0895,0.0078
+drywall,IMG_20220627_110124-jpg_1500x2000_jpg.rf.dd095080a12aa0a27128b9da2500b9e3.jpg,segment taping area,0.3330,0.4996,0.0083
+drywall,IMG_8226_JPG_jpg.rf.e0adb486909c70d29664b76c0cdd8398.jpg,segment taping area,0.1147,0.2058,0.0078
+drywall,2000x1500_18_resized_jpg.rf.b4d8f2bdd6ca32190e155e5b779e16fb.jpg,segment taping area,0.3698,0.5400,0.0085
+drywall,IMG_8209_JPG_jpg.rf.dbe519cfef16e467decfaa31c14124b0.jpg,segment taping area,0.0511,0.0972,0.0086
+drywall,IMG_8238_JPG_jpg.rf.dc51d53f7842ac33d41276e7d30121c4.jpg,segment taping area,0.0525,0.0998,0.0077
+drywall,IMG_8218_JPG_jpg.rf.e0cebdcab6504714d3a89addd243fac1.jpg,segment taping area,0.6166,0.7628,0.0078
+crack,images235_jpg.rf.D7IzIvehYwThYqUdBWbo.jpg,segment crack,0.4853,0.6535,0.0083
+crack,3600_jpg.rf.3kVHvxmpKk41crquZ33X.jpg,segment crack,0.0291,0.0566,0.0126
+crack,image21_jpeg_jpg.rf.432mmgkpxtEYoEAQDM8X.jpg,segment crack,0.6295,0.7726,0.0103
+crack,866-dat_png_jpg.rf.HzLViSio2wYMymJ4wQH7.jpg,segment crack,0.2467,0.3957,0.0076
+crack,a_5_49_png_jpg.rf.F0qyzOSsIygz36cb0his.jpg,segment crack,0.1945,0.3256,0.0090
+crack,images132_jpg.rf.IbDlo0ZnT6krxtu88ZxB.jpg,segment crack,0.3297,0.4959,0.0087
+crack,Image_-637-_jpg.rf.H5Zf08G4KxwqF1HQ2S1G.jpg,segment crack,0.6167,0.7629,0.0088
+crack,Ashworth-Drainage-Crack-Repair-1024x683_jpg.rf.Irkzg5oTq41ILc4dhibQ.jpg,segment crack,0.0333,0.0645,0.0121
+crack,a_6_53_png_jpg.rf.LsOSBevTraHjqiu8JHwI.jpg,segment crack,0.2128,0.3509,0.0084
+crack,crack386_jpg.rf.Ngj4TEkMq8ssgrxymATS.jpg,segment crack,0.5695,0.7257,0.0083
+crack,image09_png_jpg.rf.aKBDEL0OXMUwjpatWhKH.jpg,segment crack,0.3813,0.5520,0.0083
+crack,crack-bdbe00b8-dc48-11ed-a5d8-88b1113a23b0_jpg.rf.NkuJb1D8VoyYlUy76XHk.jpg,segment crack,0.2643,0.4181,0.0083
+crack,image-2-5-768x1024_jpg.rf.arFkd18SP8rkUR5HJ91q.jpg,segment crack,0.6464,0.7853,0.0081
+crack,292-dat_png_jpg.rf.fKajuZbgnzwtRbly3oaF.jpg,segment crack,0.1576,0.2722,0.0080
+crack,crack373_jpg.rf.eu6UwatJYIcq7lXGgVRr.jpg,segment crack,0.3346,0.5014,0.0076
+crack,image9_jpeg_jpg.rf.e520yeQ4Z6mV4CrUxyeF.jpg,segment crack,0.4729,0.6421,0.0081
+crack,2219_jpg.rf.jSWxO1QreltJGsPipZy5.jpg,segment crack,0.0893,0.1640,0.0084
+crack,a_20_0_png_jpg.rf.lMHNF5tnuZLMXjaW3cVb.jpg,segment crack,0.6321,0.7746,0.0081
+crack,294-dat_png_jpg.rf.isPaGze4xMnad9OcEQ9D.jpg,segment crack,0.4912,0.6588,0.0079
+crack,3833_jpg.rf.v2hERrE2dD57qSPaC6At.jpg,segment crack,0.2308,0.3751,0.0087
+crack,image20_jpeg_jpg.rf.wPovV5MMZqxJdnfYH0Mc.jpg,segment crack,0.2974,0.4584,0.0166
+crack,1045-dat_png_jpg.rf.0RKT4dipiVpPW0uz2vMZ.jpg,segment crack,0.3839,0.5548,0.0080
+crack,a_31_58_png_jpg.rf.5cqkMhnboGX0a2dZrdAV.jpg,segment crack,0.0000,0.0000,0.0078
+crack,crack212_jpg.rf.56fjBIjHIpgPo4Ff0c7p.jpg,segment crack,0.1730,0.2949,0.0079
+crack,a_15_7_png_jpg.rf.6oEg7vDpvvXsXnnpp3KG.jpg,segment crack,0.2216,0.3628,0.0087
+crack,crack361_jpg.rf.8esZXuDgruioK8ul5EEv.jpg,segment crack,0.2424,0.3903,0.0092
+crack,image02_png_jpg.rf.BQMhqFgKjplgwDV6TYG6.jpg,segment crack,0.4447,0.6157,0.0103
+crack,a_3_4_png_jpg.rf.8zD9wpWqwjH54hjZglxb.jpg,segment crack,0.1393,0.2445,0.0103
+crack,crack380_jpg.rf.BCSN7o3MDltHrHOocvS6.jpg,segment crack,0.3635,0.5332,0.0090
+crack,images131_jpg.rf.ECFueOojZRoAGhpbTiEq.jpg,segment crack,0.3524,0.5211,0.0092
+crack,1998_jpg.rf.N9YrYFwIvy1068N5jvcD.jpg,segment crack,0.0192,0.0378,0.0114
+crack,a_7_2_png_jpg.rf.IThJZ5TywFtGCdjlO3as.jpg,segment crack,0.3156,0.4798,0.0080
+crack,2120_jpg.rf.QRLFyTVIEgdp8LONhVm9.jpg,segment crack,0.0576,0.1089,0.0120
+crack,image05_png_jpg.rf.H3gJ89A11TFzJ3tYHv7n.jpg,segment crack,0.4047,0.5762,0.0085
+crack,image03_png_jpg.rf.RTfII8mFbtjtPOlbKbei.jpg,segment crack,0.4406,0.6116,0.0080
+crack,de65bfc4563c4813bb25bb65eb6cfe76_jpg.rf.IvG4QrL6EfPYx9VwORVI.jpg,segment crack,0.2431,0.3911,0.0104
+crack,crack258_jpg.rf.WMKnHW67F3hQ0bjCYpa0.jpg,segment crack,0.1595,0.2751,0.0112
+crack,b_38_0_png_jpg.rf.UJhWolJMaafILtKJGLru.jpg,segment crack,0.3484,0.5168,0.0089
+crack,image_jpeg_jpg.rf.TpFCVE2FEHzD1VxovH7I.jpg,segment crack,0.5816,0.7355,0.0080
+crack,a_9_6_png_jpg.rf.UuvGlWhnXi5s92pPaTWZ.jpg,segment crack,0.1278,0.2267,0.0079
+crack,466-dat_png_jpg.rf.bJ7gLJjRsB6yoIgeTngI.jpg,segment crack,0.3194,0.4842,0.0083
+crack,3150_jpg.rf.biJuNFn2ZkaniUU6RGx8.jpg,segment crack,0.1039,0.1882,0.0089
+crack,M3M-wall-cracks_jpg.rf.coT7QER4vWRdVOX8tVlH.jpg,segment crack,0.1716,0.2930,0.0086
+crack,crack376l_jpg.rf.gaD9pbMBtaWWVsXmg7Ce.jpg,segment crack,0.6668,0.8001,0.0080
+crack,crack400_jpg.rf.hR0iEUkn1ZvkCpJv0G4y.jpg,segment crack,0.2793,0.4367,0.0092
+crack,302-dat_png_jpg.rf.jZDS9mOs3eKj7fvKNRvL.jpg,segment crack,0.3743,0.5447,0.0080
+crack,3067_jpg.rf.m5r2cTzC6iLGpRbnWUEG.jpg,segment crack,0.1497,0.2603,0.0101
+crack,image07_png_jpg.rf.sHZO7sUzTBzXRmaUriA1.jpg,segment crack,0.4331,0.6044,0.0079
+crack,crack260_jpg.rf.pSus95eAOZl5UX7d10ZR.jpg,segment crack,0.2474,0.3966,0.0088
+crack,442-dat_png_jpg.rf.nfnaOfSUtRQnV9jf86vp.jpg,segment crack,0.2880,0.4472,0.0079
+crack,291-dat_png_jpg.rf.4YnLgZNXNtyr58LXJm1I.jpg,segment crack,0.5466,0.7069,0.0083
+crack,441-dat_png_jpg.rf.1vauoa1d7V25Zqtdclgh.jpg,segment crack,0.3262,0.4919,0.0078
+crack,579_jpg.rf.5tlV2Pndu19co2V0cC14.jpg,segment crack,0.3711,0.5413,0.0086
+crack,crack378_jpg.rf.5e1xjASIVdMKWlWUOkZB.jpg,segment crack,0.7415,0.8516,0.0080
+crack,a_11_8_png_jpg.rf.COLxV29Cs3YA3ReEnvC9.jpg,segment crack,0.0493,0.0939,0.0101
+crack,a_33_7_png_jpg.rf.6E6C75UJ7fKHZTiDWTKG.jpg,segment crack,0.2068,0.3428,0.0094
+crack,images448_jpg.rf.AAoG7TzRwj0uvRzBLQCt.jpg,segment crack,0.1125,0.2022,0.0091
+crack,a_36_8_png_jpg.rf.CflfeyUzyxqGP1NcnAIQ.jpg,segment crack,0.4018,0.5732,0.0091
+crack,299-dat_png_jpg.rf.D8O6yCxzG1mIKJliKsBG.jpg,segment crack,0.4838,0.6521,0.0079
+crack,Image_-796-_jpg.rf.CsWRGvqUQyETQcLq7JEz.jpg,segment crack,0.8275,0.9056,0.0080
+crack,896_png_jpg.rf.Eb3xxp97xLe4QIrx6SS2.jpg,segment crack,0.1912,0.3211,0.0112
+crack,image11_jpg.rf.H0jac2zPOHaTBqnfPD26.jpg,segment crack,0.1752,0.2982,0.0085
+crack,images107_jpg.rf.GInmxQEiMj2IVDyFhjTs.jpg,segment crack,0.2546,0.4059,0.0090
+crack,images24_jpg.rf.IbWuC7z4DmDvFOvdq09A.jpg,segment crack,0.5789,0.7333,0.0079
+crack,crack235_jpg.rf.Ik0ByKRU76A9UPxcNMD7.jpg,segment crack,0.1556,0.2693,0.0162
+crack,2275_jpg.rf.TcsI2rYAwSwkVkvCtKOw.jpg,segment crack,0.0151,0.0297,0.0110
+crack,image27_jpeg_jpg.rf.USWpuINNoL496tVoy6Cn.jpg,segment crack,0.5149,0.6798,0.0090
+crack,image-6-2_jpg.rf.UqburINMpIHH9mraYWQv.jpg,segment crack,0.5758,0.7308,0.0083
+crack,crack215_jpg.rf.XKKqfmizUJsD0YhmSOs1.jpg,segment crack,0.3847,0.5556,0.0079
+crack,image4_jpeg_jpg.rf.auY784Df0tdCjtb1LVnW.jpg,segment crack,0.5139,0.6789,0.0079
+crack,3885_jpg.rf.Z6d0uFqpvLAJvv3iBLUw.jpg,segment crack,0.0000,0.0000,0.0072
+crack,crack340_jpg.rf.cNO4loRBdSt3Mz5p9uhQ.jpg,segment crack,0.4041,0.5756,0.0081
+crack,crack-ba1ca228-dc48-11ed-98a6-88b1113a23b0_jpg.rf.kSFsKj5ps6WZXDvyBLQQ.jpg,segment crack,0.3122,0.4758,0.0087
+crack,1120-dat_png_jpg.rf.fJCObA275suhl0au0X5x.jpg,segment crack,0.3181,0.4826,0.0077
+crack,crack266_jpg.rf.sGQK3MvHDMngidlF92mn.jpg,segment crack,0.5631,0.7205,0.0088
+crack,images297_jpg.rf.v5roWryFCxvvHaFuOZpj.jpg,segment crack,0.2539,0.4050,0.0095
+crack,1059-dat_png_jpg.rf.voKmxguUlc3sLSWal54H.jpg,segment crack,0.4610,0.6311,0.0078
+crack,crack345_jpg.rf.xMMfqmt8YxLJEMpKg1he.jpg,segment crack,0.6189,0.7646,0.0088
+crack,images105_jpg.rf.ymnswuvcEQPJ8hZgh74y.jpg,segment crack,0.6919,0.8179,0.0082
+crack,crack264_jpg.rf.1dUBS4LsC0oUNgncG5Gp.jpg,segment crack,0.5715,0.7273,0.0088
+crack,2141_jpg.rf.wraf5diyDD5VigARoZcO.jpg,segment crack,0.0505,0.0962,0.0100
+crack,crack252_jpg.rf.3k7H7kIsWIqTcxWx9t7f.jpg,segment crack,0.1850,0.3123,0.0097
+crack,crack201_jpg.rf.6vnGCBc1KBIAUTnBq6fI.jpg,segment crack,0.5888,0.7412,0.0082
+crack,2454_jpg.rf.6U7i3U7h4BrdAjkoTukS.jpg,segment crack,0.0424,0.0813,0.0090
+crack,2363_jpg.rf.7E5qTlQyqsL5gBtqdVXQ.jpg,segment crack,0.0185,0.0364,0.0112
+crack,crackwalls_jpeg_jpg.rf.7OazgxhpdX7KuRXjN9j1.jpg,segment crack,0.7566,0.8614,0.0088
+crack,images228_jpg.rf.8vplifnXWvJcyzwknAuT.jpg,segment crack,0.1444,0.2523,0.0135
+crack,890-dat_png_jpg.rf.BO9zurQcurVCgOBkDN0q.jpg,segment crack,0.7551,0.8605,0.0084
+crack,crack331_jpg.rf.9XknaShdODv62eHD9Ieh.jpg,segment crack,0.2236,0.3655,0.0093
+crack,images27_jpg.rf.Ekxfa6PRmaUvKiweAkTp.jpg,segment crack,0.1752,0.2981,0.0102
+crack,image06_jpg.rf.Dd6IsvNmBwXwH5bVnVTX.jpg,segment crack,0.2653,0.4193,0.0085
+crack,a_17_2_png_jpg.rf.EBli2HAfcCv4ZL9Q004K.jpg,segment crack,0.7059,0.8276,0.0081
+crack,image10_png_jpg.rf.FRvCAwE5buafUYpP59aX.jpg,segment crack,0.4097,0.5813,0.0078
+crack,a_6_30_png_jpg.rf.GGNB0IiWfVxiGc6ALCWB.jpg,segment crack,0.0427,0.0819,0.0081
+crack,crack208jpg_jpg.rf.P92KU9A2GsjQocWbSZvy.jpg,segment crack,0.5160,0.6807,0.0082
+crack,Image_-412-_jpg.rf.QSETS3ZIV6pcdpx6buux.jpg,segment crack,0.7537,0.8595,0.0083
+crack,a_13_0_png_jpg.rf.RSd9NQHbct07mXlKgTgo.jpg,segment crack,0.5836,0.7371,0.0084
+crack,301-dat_png_jpg.rf.Hzs3OqULRoUWNwmEa1xT.jpg,segment crack,0.3886,0.5597,0.0079
+crack,crack347_jpg.rf.ZJmjAFJgicYJipXwWNWh.jpg,segment crack,0.2056,0.3411,0.0076
+crack,2369_jpg.rf.b0E8k4l2GvjBoj1TKdRo.jpg,segment crack,0.1725,0.2942,0.0093
+crack,image06_png_jpg.rf.lrDaNenF1ObGIBtBs7bI.jpg,segment crack,0.3806,0.5514,0.0080
+crack,crack332_jpg.rf.oU0sGzmG1NoItGGQnlW5.jpg,segment crack,0.1627,0.2799,0.0091
+crack,3872_jpg.rf.feZc5afxfhtLiA0d9mSt.jpg,segment crack,0.1398,0.2453,0.0093
+crack,crack342_jpg.rf.p0NiOrfPAKRS0Tavleno.jpg,segment crack,0.5377,0.6993,0.0086
+crack,617-dat_png_jpg.rf.stDA1vrIJDsT8uvBHGlc.jpg,segment crack,0.3667,0.5367,0.0079
+crack,3137_jpg.rf.vo92H51JAEWoGXIqZtnc.jpg,segment crack,0.1338,0.2360,0.0092
+crack,a_31_66_png_jpg.rf.w9V01KQ6W6sAI6kt3hMj.jpg,segment crack,0.0000,0.0000,0.0072
+crack,crack282_jpg.rf.xe21IrntoncNBwIHP5zW.jpg,segment crack,0.8283,0.9061,0.0082
+crack,image24_jpeg_jpg.rf.yN2Aqzi304Yla6Pk1NSe.jpg,segment crack,0.4833,0.6517,0.0089
+crack,525_jpg.rf.wLIHQGeZwnoEq25UdqG2.jpg,segment crack,0.5178,0.6823,0.0093
+crack,443-dat_png_jpg.rf.6bHVLwU98Vlwc0Bnvl5S.jpg,segment crack,0.3713,0.5415,0.0080
+crack,crack263_jpg.rf.EdOXSW4XDo163JniVrYB.jpg,segment crack,0.8194,0.9007,0.0080
+crack,290-dat_png_jpg.rf.CElUjoroHuvZyx3iqnYq.jpg,segment crack,0.0634,0.1192,0.0077
+crack,crack318_jpg.rf.Gx5Ln7ZD1EgUreHRTP2J.jpg,segment crack,0.2982,0.4594,0.0077
+crack,image12_jpg.rf.IgZenjIculNpCRUMkbNe.jpg,segment crack,0.2786,0.4358,0.0086
+crack,images156_jpg.rf.JECdtg2XBkCMT18AVEfL.jpg,segment crack,0.1052,0.1904,0.0106
+crack,a_31_83_png_jpg.rf.L26BOYLElmE9RjMtYa3P.jpg,segment crack,0.0696,0.1301,0.0083
+crack,a_22_4_png_jpg.rf.NqaPnXKR3JfikOA6BnZt.jpg,segment crack,0.5181,0.6826,0.0087
+crack,StepCracks415DJFs_jpg.rf.O8D2UDQfYCz0GUlOFCYa.jpg,segment crack,0.2738,0.4299,0.0120
+crack,images383_jpg.rf.Gz088z7ArpTMB8b680kx.jpg,segment crack,0.7367,0.8484,0.0079
+crack,2111_jpg.rf.OvDF158D6iGeUNLpSgGo.jpg,segment crack,0.2134,0.3518,0.0092
+crack,2110_jpg.rf.OZfVa0kqVXvzesvsnuUj.jpg,segment crack,0.3161,0.4804,0.0080
+crack,image01_png_jpg.rf.T2WU5kwMhGvuI6xEveqq.jpg,segment crack,0.3415,0.5091,0.0077
+crack,image07_jpg.rf.cWrVKOgSJidyVwLmDs8U.jpg,segment crack,0.3106,0.4739,0.0098
+crack,1083-dat_png_jpg.rf.OYJJ4T0jsctIIYdpiZMe.jpg,segment crack,0.0000,0.0000,0.0070
+crack,446-dat_png_jpg.rf.byAUNubtrbQ4Fo7nbWtg.jpg,segment crack,0.3356,0.5026,0.0078
+crack,a_32_10_png_jpg.rf.edm8t7V84jErJx3awRvM.jpg,segment crack,0.1790,0.3036,0.0079
+crack,images219_jpg.rf.fj2tPtt4BEYdGkSsDYka.jpg,segment crack,0.1858,0.3134,0.0080
+crack,616-dat_png_jpg.rf.goYx95qhukXwCMCOk7mn.jpg,segment crack,0.2975,0.4585,0.0076
+crack,cracks-in-walls-and-ceilings-when-to-worry_jpg.rf.iV1I9ZLkrAqSOyALBYh9.jpg,segment crack,0.7409,0.8512,0.0083
+crack,2416_jpg.rf.j1zSnT3dEDzC7KoLsepr.jpg,segment crack,0.0796,0.1475,0.0090
+crack,2246_jpg.rf.hIYUmo5MEtEEtQ09aFqv.jpg,segment crack,0.0284,0.0552,0.0095
+crack,444-dat_png_jpg.rf.hOiR8abS5CZZoidpr40T.jpg,segment crack,0.3562,0.5252,0.0080
+crack,Image_-9-_jpg.rf.jRXVvJb5DqlXgn3rXjqT.jpg,segment crack,0.2086,0.3452,0.0096
+crack,a_8_9_png_jpg.rf.jYcbnKAcKtFiKSW9Ilkk.jpg,segment crack,0.3735,0.5438,0.0080
+crack,Corner-cracks-interior-upper-right-frame-crack-close_jpg.rf.plxJvfhD94xbQ3Rb8VY7.jpg,segment crack,0.3269,0.4928,0.0082
+crack,303-dat_png_jpg.rf.ok8YRYmtCvlFamZwaLW3.jpg,segment crack,0.5096,0.6751,0.0079
+crack,3897_jpg.rf.w8NHQEP2YAyAHJg955vk.jpg,segment crack,0.2439,0.3922,0.0088
+crack,b_38_1_png_jpg.rf.koSAdIMcZVnO6hTEhPoY.jpg,segment crack,0.3576,0.5268,0.0084
+crack,crack267_jpg.rf.wB7zURZBDu2mhnjo8ua6.jpg,segment crack,0.2878,0.4469,0.0120
+crack,3206_jpg.rf.1CECQOQHSenPfPWCpGpd.jpg,segment crack,0.0567,0.1074,0.0103
+crack,3808_jpg.rf.0iydPbVIuk1K6FvTwSPx.jpg,segment crack,0.0994,0.1808,0.0094
+crack,image04_png_jpg.rf.3xKjKdibPH5Wj3ljB1Wp.jpg,segment crack,0.2962,0.4570,0.0079
+crack,crack350_jpg.rf.86UGPtvxbeYkwXLdFeyP.jpg,segment crack,0.2909,0.4507,0.0076
+crack,a_31_56_png_jpg.rf.4dL94KzizpkGLFe2Wk5S.jpg,segment crack,0.0544,0.1033,0.0076
+crack,crack209_jpg.rf.9p0IVhtHwAwIm2OrmGCi.jpg,segment crack,0.1373,0.2414,0.0093
+crack,Image_-455-_jpg.rf.8dreYEczsj1iEI9iEN1K.jpg,segment crack,0.5578,0.7162,0.0095
+crack,3215_jpg.rf.CHQ6fiBGMaQJ7ZSq1mcF.jpg,segment crack,0.1315,0.2324,0.0091
+crack,2373_jpg.rf.CEYOA0Ytff9VzbkIdKp2.jpg,segment crack,0.0842,0.1553,0.0089
+crack,3836_jpg.rf.CpcGJRR8afnyzgLCl7Wv.jpg,segment crack,0.1004,0.1825,0.0093
+crack,Image_-406-_jpg.rf.CpvljDWfedIU2BlEqz5z.jpg,segment crack,0.8357,0.9105,0.0079
+crack,3852_jpg.rf.N5UK10d8eFBCbZNzt26X.jpg,segment crack,0.1494,0.2600,0.0087
+crack,crack336_jpg.rf.EEOwhT6YyrtPvlO1d1jc.jpg,segment crack,0.4823,0.6507,0.0079
+crack,2303_jpg.rf.SIXW1qeqSXtQc6fHnmQd.jpg,segment crack,0.4944,0.6616,0.0091
+crack,2339_jpg.rf.UbRsFo2hd7PyZdsySqfe.jpg,segment crack,0.4629,0.6329,0.0087
+crack,2400_jpg.rf.FVsj1V4eyOdcAlylahD4.jpg,segment crack,0.0977,0.1781,0.0096
+crack,3303_jpg.rf.ZibOUI3uCYtijVIeWETm.jpg,segment crack,0.2048,0.3400,0.0095
+crack,crack329_jpg.rf.fL2ETY7NoryjLLQGbSjH.jpg,segment crack,0.3984,0.5698,0.0082
+crack,crack346_jpg.rf.hFSdkLjVqeRJbo9L2XWA.jpg,segment crack,0.2785,0.4357,0.0083
+crack,Image_-560-_jpg.rf.oQufelz7IJ8mEdnvQuWH.jpg,segment crack,0.1364,0.2400,0.0122
+crack,crack333_jpg.rf.hlqArTM9COoG5VQtw7Cv.jpg,segment crack,0.5951,0.7462,0.0089
+crack,2205_jpg.rf.leSTs2arBj3pYbQXYIsS.jpg,segment crack,0.0159,0.0312,0.0109
+crack,images205_jpg.rf.rcIpnGzuBg70aBduzyLa.jpg,segment crack,0.4459,0.6168,0.0085
+crack,2170_jpg.rf.qAhrrRleeRocc69lS3fD.jpg,segment crack,0.0573,0.1084,0.0085
+crack,a_5_38_png_jpg.rf.tOR1fHPUBnC7MdyflWpI.jpg,segment crack,0.5350,0.6971,0.0082
+crack,1118-dat_png_jpg.rf.ugzvkPowtAzp9u2odCAK.jpg,segment crack,0.3619,0.5314,0.0077
+crack,crack204_jpg.rf.ssEgB2tMVuM8A8pUq3Rh.jpg,segment crack,0.7107,0.8309,0.0085
+crack,a_80_1_png_jpg.rf.ydzVsvcRKBArzTWbRcNu.jpg,segment crack,0.4090,0.5806,0.0079
+crack,a_18_1_png_jpg.rf.zNsvdsDVdrlhVbH1NgWE.jpg,segment crack,0.3692,0.5393,0.0082
+crack,3313_jpg.rf.I5bC0xkjMCvZ9QULIqVm.jpg,segment crack,0.1758,0.2991,0.0087
+crack,3443_jpg.rf.x5SVC9dEOSGE9HxpPcvf.jpg,segment crack,0.1440,0.2518,0.0102
+crack,crack339_jpg.rf.L6VJwLX5xWHEOm4MVNiz.jpg,segment crack,0.8144,0.8977,0.0078
+crack,crack397_jpg.rf.M18W2AKikKlEoO81iqri.jpg,segment crack,0.5795,0.7338,0.0085
+crack,863-dat_png_jpg.rf.JNj9pX9fpKy2H0YlRbaj.jpg,segment crack,0.1811,0.3066,0.0076
+crack,a_17_0_png_jpg.rf.QKOvwtjdJMi1RXcEMX6Q.jpg,segment crack,0.4856,0.6538,0.0086
+crack,crack281_jpg.rf.QCGIVqxUbkN1cDR60qXy.jpg,segment crack,0.7772,0.8746,0.0080
+crack,crack330_jpg.rf.V2jPCG8WajPWWC1cNBeb.jpg,segment crack,0.7359,0.8479,0.0085
+crack,300-dat_png_jpg.rf.PYWCkn9cN4aLOnyQGxM8.jpg,segment crack,0.4289,0.6003,0.0078
+crack,a_13_7_png_jpg.rf.Xr0VLkgbuyo2rbfwUaZ0.jpg,segment crack,0.5504,0.7100,0.0083
+crack,a_31_90_png_jpg.rf.ZXNHdUzzizAiCvYnffxF.jpg,segment crack,0.0000,0.0000,0.0071
+crack,crack-bb53c022-dc48-11ed-a81a-88b1113a23b0_jpg.rf.XfEn5ihEDGRdhlzwcieY.jpg,segment crack,0.2362,0.3822,0.0090
+crack,a_116_7_png_jpg.rf.dGC7UM2vZoxRrQPTbkBN.jpg,segment crack,0.4120,0.5836,0.0079
+crack,304-dat_png_jpg.rf.daA6ijv6emlNtEIN58Rd.jpg,segment crack,0.2889,0.4482,0.0078
+crack,2413_jpg.rf.dbAgf8rS8YTnAMsRHlu4.jpg,segment crack,0.3929,0.5641,0.0092
+crack,images187_jpg.rf.e4XJx80mWDWjf3xA9GVN.jpg,segment crack,0.3563,0.5254,0.0083
+crack,a_35_1_png_jpg.rf.eKxMWeQUX02JfoGZwEn6.jpg,segment crack,0.2155,0.3545,0.0082
+crack,Image_-642-_jpg.rf.fMM6VyGi3M9qp5XbOMQH.jpg,segment crack,0.7433,0.8528,0.0099
+crack,images169_jpg.rf.i8M83alP8lcQ510jjWod.jpg,segment crack,0.1851,0.3123,0.0090
+crack,crack268_jpg.rf.fgThiEHZgmNaP8Q0BGaR.jpg,segment crack,0.3987,0.5701,0.0109
+crack,a_11_9_png_jpg.rf.i5BzKZbGtWH50mOxoDeQ.jpg,segment crack,0.2160,0.3552,0.0089
+crack,image08_png_jpg.rf.iLtqhluIVZ8XGuDTYW1t.jpg,segment crack,0.4567,0.6271,0.0077
+crack,3093_jpg.rf.kFBGakRhhBL8THyUXylX.jpg,segment crack,0.3593,0.5286,0.0089
+crack,a_7_0_png_jpg.rf.ko2kdpWQO8T8gOSQdsbw.jpg,segment crack,0.4330,0.6044,0.0082
+crack,445-dat_png_jpg.rf.lJFKXRib2Y4Obh9G4xW4.jpg,segment crack,0.2928,0.4530,0.0079
+crack,crack224_jpg.rf.la14WIMdwhEzuwNsBGff.jpg,segment crack,0.0241,0.0471,0.0089
+crack,images119_jpg.rf.quhKh3stIREPYFQl6bGZ.jpg,segment crack,0.1744,0.2970,0.0097
+crack,image18_jpeg_jpg.rf.nHti9fx6hywTVKAb5MH2.jpg,segment crack,0.6925,0.8183,0.0085
+crack,2127_jpg.rf.rTkHCzQXOMnzXupiX3OV.jpg,segment crack,0.0360,0.0695,0.0092
+crack,crack207_jpg.rf.vZVKLuUWlHiKAf4wJZqx.jpg,segment crack,0.5231,0.6869,0.0085
+crack,a_83_2_png_jpg.rf.t5kxBPWDw22glAKfQ0pa.jpg,segment crack,0.0694,0.1298,0.0097
+crack,Image_-377-_jpg.rf.b28KsjZyCZJjBkZDS75v.jpg,segment crack,0.5787,0.7332,0.0092
