@@ -34,6 +34,19 @@ pip install git+[https://github.com/facebookresearch/segment-anything.git](https
 mkdir weights
 wget -O weights/sam_vit_h_4b8939.pth [https://dl.fbaipublicfiles.com/segment_anything/sam_vit_h_4b8939.pth](https://dl.fbaipublicfiles.com/segment_anything/sam_vit_h_4b8939.pth)
 ```
+## Downloading Pretrained Weights for YOLO-World and YOLO-Seg Models
+
+To download the pretrained weights for the YOLO-World and YOLO-Seg models, follow these instructions:
+
+1. **YOLO-World**:
+   - You can download the pretrained weights from the following link: [YOLO-World Weights](https://drive.google.com/file/d/10MunvBRf-NF0GP0m6DhJ9_1yhgHkwhG_/view?usp=sharing).
+   - Download path: runs/detect/yolo_world_combined_v1/weights
+
+2. **YOLO-Seg**:
+   - Download the pretrained weights using this link: [YOLO-Seg Weights](https://drive.google.com/file/d/1g7eSFrWTejZ13X-jnALa7IOo1spa24-l/view?usp=sharing)
+   - Download path: runs/segment/runs/segment/yolo_seg_combined/weights
+
+Place the downloaded weights in the appropriate directory as defined in the project documentation for seamless integration.
 
 ## Dataset Preparation
 The original datasets are in COCO JSON format. To train the YOLO models, convert the segmentation masks and bounding boxes into the YOLO format.
