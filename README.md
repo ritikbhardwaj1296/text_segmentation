@@ -8,6 +8,7 @@ This repository contains a complete pipeline for text-conditioned segmentation, 
 - [Dataset Preparation](#dataset-preparation)
 - [Training Pipeline](#training-pipeline)
 - [Evaluation and Inference](#evaluation-and-inference)
+- [Repository Structure](#repository-structure)
 <!-- - [Utilities](#utilities)
 - [Results Summary](#results-summary) -->
 
@@ -93,3 +94,30 @@ To infer on a particuar image:
 ```Bash
 python -m pipelines.main
 ```
+
+## Repository Structure
+text_segmentation/
+├── evaluation/
+│   ├── evaluate.py
+│   ├── evaluate_trained_yoloworld.py
+│   ├── evaluator.py
+│   ├── run_experiments.py
+│   └── detailed_results_*.csv (evaluation results)
+├── models/
+│   ├── detector/
+│   └── segmenter/
+├── pipelines/
+│   ├── base_pipeline.py
+│   ├── main.py
+│   ├── train_dino.py
+│   ├── train_yolo.py
+│   └── train_yolo_seg.py
+├── utils/
+│   ├── convert_data_combined.py
+│   ├── convert_yolo_seg.py
+│   ├── vis_comprehensive.py
+│   └── vis_failures.py
+|── runs/ 
+|   ├── detector
+│   ├── segmenter
+└── README.md
