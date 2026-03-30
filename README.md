@@ -1,6 +1,6 @@
-# Text-Guided Defect Segmentation
+# Text-Guided Segmentation
 
-This repository contains a complete pipeline for text-conditioned industrial defect segmentation, specifically targeting drywall joints and surface cracks. It implements a progression of architectures from zero-shot foundation models to a highly optimized, domain-specific cascaded pipeline (Fine-tuned YOLO-World + Custom YOLO-seg).
+This repository contains a complete pipeline for text-conditioned segmentation, specifically targeting drywall joints and surface cracks. It implements a progression of architectures from zero-shot foundation models to a highly optimized, domain-specific cascaded pipeline (Fine-tuned YOLO-World + Custom YOLO-seg).
 
 ## Table of Contents
 - [Architecture Overview](#architecture-overview)
